@@ -1,9 +1,4 @@
 Lines: 100
-Minutes: 180
+Minutes: 69
 Speed: 0.56 lines/min
-Lines: 100
-Minutes: 180
-Speed: 0.56 lines/min
-Lines: 247
-Minutes: 420
-Speed: 0.59 lines/min
+
