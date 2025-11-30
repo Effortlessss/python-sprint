@@ -1,5 +1,5 @@
-Lines: 100
-Minutes: 180
+Lines: banana
+Minutes: -69
 Speed: 0.56 lines/min
 Lines: 100
 Minutes: 180
